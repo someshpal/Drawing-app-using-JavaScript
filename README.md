@@ -1,5 +1,4 @@
-# Drawing-app-using-JavaScript
-Drawing App Javascript project is a web application which is developed in JavaScript platform.
+# DrawingGame
 Interactive application built with HTML Canvas, JavaScript and jQuery.
 
 <h4>Description</h4>
@@ -23,4 +22,3 @@ Interactive application built with HTML Canvas, JavaScript and jQuery.
 <img src="images/drawscreen2.png" width="350px">
 <img src="images/drawscreen3.png" width="350px">
 <img src="images/drawscreen4.png" width="350px">
-HAPPY CODING :)
